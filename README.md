@@ -20,6 +20,8 @@ This is a comprehensive log of my journey in the AWS re/Start program, tracking 
 
 **Audience:**  Perfect for individuals in technical, managerial, sales, or purchasing roles who interact with the AWS Cloud.
 
+
+
  **About AWS**
 
  The AWS Cloud Practitioner certification is a beginner's test. It proves you understand the basics of the AWS cloud.
