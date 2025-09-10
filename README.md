@@ -6,10 +6,6 @@ This is a comprehensive log of my journey in the AWS re/Start program, tracking 
 
 **My Goals for This Project**:
 
-Habit Building: Cultivating the essential skill of maintaining clear and concise technical documentation.
-
-Knowledge Management: Building a centralized, searchable base of knowledge for my ongoing cloud education.
-
-Career Portfolio: Showcasing my hands-on experience and dedicated learning process for future career opportunities.
-
-Skill Development: Enhancing my proficiency with professional tools like Git, GitHub, and Markdown through real-world application.
+- ** Knowledge Consolidation:** To solidify my understanding of AWS core services and cloud concepts by documenting my learning in my own words.
+- ** Portfolio Development:** To create a public portfolio that demonstrates my initiative, structured learning process, and technical documentation skills to potential employers.
+- ** Tool Proficiency:** To enhance my practical experience with essential developer tools
