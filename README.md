@@ -13,13 +13,13 @@ This is a comprehensive log of my journey in the AWS re/Start program, tracking 
  **📜Certification at a Glance**
   
 
-**Name:** AWS Certified Cloud Practitioner (CLF-C02)
+**Name:**  AWS Certified Cloud Practitioner (CLF-C02)
 
-**Level:** Foundational / Entry-Level
+**Level:**  Foundational / Entry-Level
 
-**Purpose:** To validate a broad understanding of cloud concepts and the AWS platform.
+**Purpose:**  To validate a broad understanding of cloud concepts and the AWS platform.
 
-**Focus Areas:** Cloud economics, core AWS services, global infrastructure, security and compliance, and billing and pricing models.
+**Focus Areas:**  Cloud economics, core AWS services, global infrastructure, security and compliance, and billing and pricing models.
 
-**Audience:** Perfect for individuals in technical, managerial, sales, or purchasing roles who interact with the AWS Cloud.
+**Audience:**  Perfect for individuals in technical, managerial, sales, or purchasing roles who interact with the AWS Cloud.
 
