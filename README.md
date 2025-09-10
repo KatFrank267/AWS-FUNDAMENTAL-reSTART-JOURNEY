@@ -12,6 +12,14 @@ This is a comprehensive log of my journey in the AWS re/Start program, tracking 
 
  **📜Certification at a Glance**
 
+ **Level:**  Foundational / Entry-Level
+
+**Purpose:**  To validate a broad understanding of cloud concepts and the AWS platform.
+
+**Focus Areas:**  Cloud economics, core AWS services, global infrastructure, security and compliance, and billing and pricing models.
+
+**Audience:**  Perfect for individuals in technical, managerial, sales, or purchasing roles who interact with the AWS Cloud.
+
  **About AWS**
 
  The AWS Cloud Practitioner certification is a beginner's test. It proves you understand the basics of the AWS cloud.
@@ -25,21 +33,7 @@ How the cloud is built and kept secure.
 Why using the cloud is useful and can save money.
   
 
-**Name:The AWS Cloud Practitioner certification is a beginner's test. It proves you understand the basics of the AWS cloud.
 
-It shows you know about:
 
-The main cloud services AWS offers.
 
-How the cloud is built and kept secure.
-
-Why using the cloud is useful and can save money.  AWS Certified Cloud Practitioner (CLF-C02)
-
-**Level:**  Foundational / Entry-Level
-
-**Purpose:**  To validate a broad understanding of cloud concepts and the AWS platform.
-
-**Focus Areas:**  Cloud economics, core AWS services, global infrastructure, security and compliance, and billing and pricing models.
-
-**Audience:**  Perfect for individuals in technical, managerial, sales, or purchasing roles who interact with the AWS Cloud.
 
